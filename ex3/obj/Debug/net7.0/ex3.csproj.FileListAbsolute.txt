@@ -1,0 +1,15 @@
+/Users/denisshevela/seminar07/ex3/obj/Debug/net7.0/ex3.csproj.AssemblyReference.cache
+/Users/denisshevela/seminar07/ex3/obj/Debug/net7.0/ex3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisshevela/seminar07/ex3/obj/Debug/net7.0/ex3.AssemblyInfoInputs.cache
+/Users/denisshevela/seminar07/ex3/obj/Debug/net7.0/ex3.AssemblyInfo.cs
+/Users/denisshevela/seminar07/ex3/obj/Debug/net7.0/ex3.csproj.CoreCompileInputs.cache
+/Users/denisshevela/seminar07/ex3/bin/Debug/net7.0/ex3
+/Users/denisshevela/seminar07/ex3/bin/Debug/net7.0/ex3.deps.json
+/Users/denisshevela/seminar07/ex3/bin/Debug/net7.0/ex3.runtimeconfig.json
+/Users/denisshevela/seminar07/ex3/bin/Debug/net7.0/ex3.dll
+/Users/denisshevela/seminar07/ex3/bin/Debug/net7.0/ex3.pdb
+/Users/denisshevela/seminar07/ex3/obj/Debug/net7.0/ex3.dll
+/Users/denisshevela/seminar07/ex3/obj/Debug/net7.0/refint/ex3.dll
+/Users/denisshevela/seminar07/ex3/obj/Debug/net7.0/ex3.pdb
+/Users/denisshevela/seminar07/ex3/obj/Debug/net7.0/ex3.genruntimeconfig.cache
+/Users/denisshevela/seminar07/ex3/obj/Debug/net7.0/ref/ex3.dll
